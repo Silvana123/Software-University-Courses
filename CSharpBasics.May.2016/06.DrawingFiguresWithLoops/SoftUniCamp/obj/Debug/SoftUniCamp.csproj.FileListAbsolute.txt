@@ -1,0 +1,6 @@
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\SoftUniCamp\bin\Debug\SoftUniCamp.exe.config
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\SoftUniCamp\bin\Debug\SoftUniCamp.exe
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\SoftUniCamp\bin\Debug\SoftUniCamp.pdb
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\SoftUniCamp\obj\Debug\SoftUniCamp.csprojResolveAssemblyReference.cache
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\SoftUniCamp\obj\Debug\SoftUniCamp.exe
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\SoftUniCamp\obj\Debug\SoftUniCamp.pdb

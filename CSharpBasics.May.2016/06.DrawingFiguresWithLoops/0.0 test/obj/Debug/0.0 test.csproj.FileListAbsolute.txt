@@ -1,0 +1,6 @@
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\0.0 test\bin\Debug\0.0 test.exe.config
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\0.0 test\bin\Debug\0.0 test.exe
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\0.0 test\bin\Debug\0.0 test.pdb
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\0.0 test\obj\Debug\0.0 test.exe
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\0.0 test\obj\Debug\0.0 test.pdb
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\0.0 test\obj\Debug\0.0 test.csprojResolveAssemblyReference.cache

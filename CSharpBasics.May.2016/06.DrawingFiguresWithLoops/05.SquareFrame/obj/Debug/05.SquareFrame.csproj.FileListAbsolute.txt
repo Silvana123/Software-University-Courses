@@ -1,0 +1,12 @@
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csprojResolveAssemblyReference.cache
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+C:\Users\silvana\Documents\Visual Studio 2015\Projects\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+D:\SoftUni\CSharpBasics.May.2016\06.DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csprojResolveAssemblyReference.cache

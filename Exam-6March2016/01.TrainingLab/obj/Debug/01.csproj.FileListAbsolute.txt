@@ -1,0 +1,6 @@
+c:\users\silvana\documents\visual studio 2015\Exam\Exam - 6 March 2016\01\bin\Debug\01.exe.config
+c:\users\silvana\documents\visual studio 2015\Exam\Exam - 6 March 2016\01\obj\Debug\01.exe
+c:\users\silvana\documents\visual studio 2015\Exam\Exam - 6 March 2016\01\obj\Debug\01.pdb
+c:\users\silvana\documents\visual studio 2015\Exam\Exam - 6 March 2016\01\bin\Debug\01.exe
+c:\users\silvana\documents\visual studio 2015\Exam\Exam - 6 March 2016\01\bin\Debug\01.pdb
+c:\users\silvana\documents\visual studio 2015\Exam\Exam - 6 March 2016\01\obj\Debug\01.csprojResolveAssemblyReference.cache
